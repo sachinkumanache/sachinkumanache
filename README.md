@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumanache</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height=50%>
 # 💫 About Me:
 
 - 🔭 I’m currently working on **my personal Development**
