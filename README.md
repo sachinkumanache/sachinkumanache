@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumanache</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<h3 align="center">A passionate Frontend Developer from India</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmost-popular-web-development-technologies-2021-jon-jones&psig=AOvVaw2nGyxbita1JJ1l1R1fOOwS&ust=1712408915962000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDU77ySq4UDFQAAAAAdAAAAABAE">
 # 💫 About Me:
 
 - 🔭 I’m currently working on **my personal Development**
