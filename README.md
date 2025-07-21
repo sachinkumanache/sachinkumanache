@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **ReactJS | JavaScript | Chakra UI | Bootstrap | Redux | HTML | CSS | Java**
+- 💬 Ask me about **ReactJS | JavaScript | Redux | HTML | CSS**
 
 - 📫 How to reach me **kumanache@gmail.com**
 
